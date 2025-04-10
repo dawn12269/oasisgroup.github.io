@@ -126,8 +126,8 @@
     <div class="contact-item" ><div class="contact-icon"></div>For space booking, pls kindly send Email to op@oasis-group.com.cn.</div><br>
     <div class="contact-item" ><div class="contact-icon"></div>For more shipment info, pls contact our sales as below :</div>
     <div class="contact-item"><div class="contact-icon"></div><div style="display: flex; flex-direction: column; gap: 10px;">
-      <span>00861(Jennny)</span>
-      <span>111(Jacky)</span></div>
+     <span>0086 13585677878 (Jennny)</span>
+     <span>0086 18916194572 (Jacky)</span></div>
     
   </div>
     <div class="contact-item" ><div class="contact-icon"></div>For more details，pls send E-mails our PIC:summer@oasis-group.com.cn</div><br>

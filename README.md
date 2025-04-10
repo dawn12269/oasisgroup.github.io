@@ -76,7 +76,7 @@
     <div class="header">
       <a href=" ">
         <img
-          src="https://i.ibb.co/C3Nr792H/IMG-8849.jpg"
+          src="https://i.ibb.co/MkqH80Dx/291c501080f6d4e56ccb3e108928244.png"
           alt="Company Logo"
           border="0"
           class="logo"
@@ -123,18 +123,6 @@
         </div>
       </div>
     </div><br>
-    <div class="contact-item" ><div class="contact-icon"></div>For space booking, pls kindly send Email to op@oasis-group.com.cn.</div><br>
-    <div class="contact-item" ><div class="contact-icon"></div>For more shipment info, pls contact our sales as below :</div>
-    <div class="contact-item"><div class="contact-icon"></div><div style="display: flex; flex-direction: column; gap: 10px;">
-     <span>0086 13585677878 (Jennny)</span>
-     <span>0086 18916194572 (Jacky)</span></div>
-    
-  </div>
-    <div class="contact-item" ><div class="contact-icon"></div>For more details，pls send E-mails our PIC:summer@oasis-group.com.cn</div><br>
-
-
-    
-    
 </div> 
   </body>
 </html>

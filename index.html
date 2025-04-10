@@ -76,7 +76,7 @@
     <div class="header">
       <a href=" ">
         <img
-          src="https://i.ibb.co/LzPNJ8py/9130be75a54ad1e11e1e88cb8df8a7e.jpg"
+          src="https://i.ibb.co/MkqH80Dx/291c501080f6d4e56ccb3e108928244.png"
           alt="Company Logo"
           border="0"
           class="logo"

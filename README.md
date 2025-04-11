@@ -24,6 +24,7 @@
       .logo {
         height: 120px;
         vertical-align: middle;
+        width: auto;
       }
 
       .content {

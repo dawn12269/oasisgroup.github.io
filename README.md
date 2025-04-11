@@ -22,7 +22,7 @@
       }
 
       .logo {
-        height: 80px;
+        height: 120px;
         vertical-align: middle;
       }
 
